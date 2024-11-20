@@ -1,11 +1,16 @@
-# NOTE FOR GTAV: Add -nobattleye in Steam's launch options before starting the game.
+# Note FOR GTAV: 
+<p>Add -nobattleye in Steam's launch options before starting the game.
 
-This program helps you launch games without their launchers (for example GTAV without Rockstar Social Club)
+## UPDATE
 
 {x} Added: GTA4 🕹
 
 {x} New design ✨
 {x} Bug fixes 📚
 {x} Notifications 📩
+
+## INFO
+
+This program helps you launch games without their launchers (for example GTAV without Rockstar Social Club)
 
 VirusTotal: https://www.virustotal.com/gui/file/b7c4d4d9a9db4ae72b2509cd08d9be79964ef67a91b06274214566d2aa873354/detection
